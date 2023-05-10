@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is a FAQ accordion?",
+    "answer": "A FAQ accordion is a user interface component that displays a list of frequently asked questions and their answers, where each answer can be shown or hidden by clicking on the corresponding question."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate and share data with each other."
+  },
+  {
+    "question": "What is a content management system?",
+    "answer": "A content management system (CMS) is a software platform that helps users create, edit, organize, and publish digital content on the web, often without requiring extensive technical knowledge."
+  },
+  {
+    "question": "What is responsive web design?",
+    "answer": "Responsive web design is an approach to web development that aims to make websites render optimally across a variety of devices and screen sizes by adjusting layout, images, and navigation."
+  },
+  {
+    "question": "What is a frontend and backend in web development?",
+    "answer": "The 'frontend' refers to the client-side of a web application, including the user interface, interactivity, and visual design. The 'backend' refers to the server-side, where data processing, storage, and communication with databases and APIs occurs."
+  },
+  {
+    "question": "What is SEO?",
+    "answer": "SEO (Search Engine Optimization) is the practice of improving a website's visibility in search engine results pages (SERPs) by enhancing its content, structure, and performance to create a better user experience and attract more organic traffic."
+  },
+  {
+    "question": "What is a cookie?",
+    "answer": "A cookie is a small piece of data sent from a website and stored on a user's computer, allowing the website to remember user preferences, track visits, and improve the user experience in subsequent visits."
+  },
+  {
+    "question": "What is a domain name?",
+    "answer": "A domain name is a human-readable address that identifies a website on the internet, consisting of a sequence of characters (the domain) followed by a TLD (top-level domain), such as '.com', '.org', or '.net'."
+  },
+  {
+    "question": "What is HTTPS?",
+    "answer": "HTTPS (Hypertext Transfer Protocol Secure) is an encrypted version of HTTP that provides secure communication between a user's browser and a web server, protecting sensitive data from being intercepted or tampered with by third parties."
+  },
+  {
+    "question": "What is a wireframe?",
+    "answer": "A wireframe is a basic visual representation of a web page's layout, used to plan the placement and organization of various elements before the design and development process begins."
+  },
+  {
+    "question": "What is UX and UI?",
+    "answer": "UX (User Experience) refers to the overall experience that users have when interacting with a digital product or service, while UI (User Interface) refers to the specific visual elements and tools that facilitate this interaction."
+  },
+  {
+    "question": "What is a web framework?",
+    "answer": "A web framework is a collection of tools, libraries, and best practices that help developers build and maintain web applications more efficiently by providing a structure and reusable code components."
+  },
+  {
+    "question": "What is version control?",
+    "answer": "Version control is a system that tracks changes to files, particularly code, over time, allowing developers to view previous versions, collaborate effectively, and revert to earlier states if necessary."
+  },
+  {
+    "question": "What is a web server?",
+    "answer": "A web server is a computer system that processes and delivers web pages to users, responding to HTTP or HTTPS requests from web browsers with the appropriate content, such as HTML, images, and JavaScript files."
+  },
+  {
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of data, stored and accessed electronically, that enables efficient retrieval, management, and manipulation of information to support various web applications and services."
+  },
+  {
+    "question": "What is web hosting?",
+    "answer": "Web hosting is a service that provides storage space, resources, and tools for websites, allowing them to be accessible and functional on the internet via a specialized server infrastructure."
+  },
+  {
+    "question": "What is AJAX?",
+    "answer": "AJAX (Asynchronous JavaScript and XML) is a web development technique that enables web pages to communicate with a server and update content asynchronously, without the need to reload the entire page."
+  },
+  {
+    "question": "What is a CMS template?",
+    "answer": "A CMS template is a pre-designed layout, structure, and style that can be applied to a new or existing web page, streamlining the content creation process and ensuring consistency across a website."
+  },
+  {
+    "question": "What is an SSL certificate?",
+    "answer": "An SSL (Secure Sockets Layer) certificate is a digital document that authenticates a website's identity and establishes an encrypted connection between a user's browser and the web server, safeguarding sensitive data from unauthorized access."
+  },
+  {
+    "question": "What is a 404 error?",
+    "answer": "A 404 error occurs when a requested web page cannot be found on the server, typically because the URL is incorrect or the page has been moved or deleted."
+  },
+  {
+    "question": "What is a permalink?",
+    "answer": "A permalink (permanent link) is a permanent and stable URL that directs users to a specific web page, blog post, or other digital content, ensuring the link remains valid even as the site's structure changes."
+  },
+  {
+    "question": "What is a sitemap?",
+    "answer": "A sitemap is an organized list or diagram of a website's pages, providing an overview of the site's structure and enabling search engine crawlers to discover and index content more effectively."
+  },
+  {
+    "question": "What is a viewport?",
+    "answer": "A viewport is the visible area of a web page that a user sees in their browser, with its size and dimensions determined by the device's screen and browser window."
+  },
+  {
+    "question": "What is a browser cache?",
+    "answer": "A browser cache is a temporary storage space on a user's device that retains copies of web page elements, such as images and scripts, for faster loading and improved performance during subsequent visits."
+  },
+  {
+    "question": "What is a hero image?",
+    "answer": "A hero image is a large, visually impactful image, often placed at the top of a web page, that serves to capture the user's attention and communicate the main message, value proposition, or theme of the site."
+  },
+  {
+    "question": "What is web accessibility?",
+    "answer": "Web accessibility is the inclusive design principle that ensures websites, tools, and technologies are usable by people of varying abilities, enabling equal access to information and functionality for all users, including those with disabilities."
+  },
+  {
+    "question": "What is white space?",
+    "answer": "White space, also known as negative space, refers to the unoccupied areas of a web page's layout between and around various design elements, helping to create balance, improve readability, and contribute to an overall aesthetic appeal."
+  },
+  {
+    "question": "What is a progressive web app?",
+    "answer": "A progressive web app (PWA) is a type of web application that combines the best features of websites and native apps, offering a responsive, fast, and reliable user experience, while also being accessible offline and available for installation on a user's device."
+  },
+  {
+    "question": "What is minification?",
+    "answer": "Minification is the process of removing unnecessary characters, such as whitespace and comments, from code files, such as CSS or JavaScript, to reduce their size and improve loading times and performance for web pages."
+  },
+  {
+    "question": "What is a website's load time?",
+    "answer": "A website's load time is the duration it takes for a web page to fully load and render in a user's browser, including fetching and processing all necessary images, stylesheets, scripts, and other resources."
+  }
+]
