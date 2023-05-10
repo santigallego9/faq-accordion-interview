@@ -1,0 +1,301 @@
+{
+  "questions": [
+    {
+      "id": "eb5ddaa0-0585-4eca-a469-ebe89f2bcda0",
+      "question": "Which of the following is NOT a Git operation?",
+      "options": {
+        "1": "commit",
+        "2": "diff",
+        "3": "grab",
+        "4": "merge"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "3ecb8763-91ea-4afb-924c-cf8612bef647",
+      "question": "What does REST stand for?",
+      "options": {
+        "1": "Reliably Extracted State Transfer",
+        "2": "Realtime Event Sync Transport",
+        "3": "Report Engage System Transform",
+        "4": "Representational State Transfer"
+      },
+      "correct": "4"
+    },
+    {
+      "id": "20b31025-6ccd-4b3c-8673-2720dd92e7b3",
+      "question": "How would you reference an element with the identifier 'myElement' in JavaScript?",
+      "options": {
+        "1": "element('myElement')",
+        "2": "#myElement",
+        "3": "getElementById('myElement')",
+        "4": "document.getElementById('myElement')"
+      },
+      "correct": "4"
+    },
+    {
+      "id": "7642ee76-e759-46ef-a6ea-37a4018f6e02",
+      "question": "What is the time complexity of the binary search algorithm?",
+      "options": {
+        "1": "O(1)",
+        "2": "O(n)",
+        "3": "O(log n)",
+        "4": "O(n^2)"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "2ebb205a-73ba-437d-b885-9b2e37018c1d",
+      "question": "Which language is primarily used for styling web pages?",
+      "options": {
+        "1": "Java",
+        "2": "C++",
+        "3": "Python",
+        "4": "CSS"
+      },
+      "correct": "4"
+    },
+    {
+      "id": "4f4bb0e0-8aaa-4c55-84cd-9f74afccde8a",
+      "question": "Which of the following is NOT a JavaScript data type?",
+      "options": {
+        "1": "Null",
+        "2": "Array",
+        "3": "List",
+        "4": "Boolean"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "961a70c6-5155-4232-83a1-34d5c5360a0e",
+      "question": "Which of these is a full-stack JavaScript framework?",
+      "options": {
+        "1": "Angular",
+        "2": "React",
+        "3": "Meteor",
+        "4": "Vue"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "a93691dd-2d60-4fd7-8f88-eda44fd273d9",
+      "question": "What does the SQL keyword 'INNER JOIN' do?",
+      "options": {
+        "1": "Selects records with matching values in both tables",
+        "2": "Deletes records with matching values",
+        "3": "Updates records with matching values",
+        "4": "Inserts records with matching values"
+      },
+      "correct": "1"
+    },
+    {
+      "id": "807cae87-a6dc-4056-8a1d-d2e2caeabdbb",
+      "question": "What is the primary use of a build system?",
+      "options": {
+        "1": "To build components that run only on the server",
+        "2": "To automate daily tasks",
+        "3": "To generate user interface designs",
+        "4": "To automate the compilation, testing, and deployment of code"
+      },
+      "correct": "4"
+    },
+    {
+      "id": "703db28f-1f14-4533-8c3e-7ca8fe10887b",
+      "question": "How would you create a new object in Python?",
+      "options": {
+        "1": "obj = new object()",
+        "2": "obj = object.create()",
+        "3": "obj = object()",
+        "4": "obj.create()"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "be79f419-dd39-4c2e-8df2-75e0da850e51",
+      "question": "Which of the following are TRUE about Docker?",
+      "options": {
+        "1": "Docker is a configuration management tool",
+        "2": "Docker allows you to version control your application",
+        "3": "Docker is an application virtualization platform",
+        "4": "Docker is a hardware virtualization platform"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "bd890ff9-cb09-43c1-94d3-7f3d6b461a7c",
+      "question": "What is the main benefit of using NoSQL databases?",
+      "options": {
+        "1": "Stronger security features",
+        "2": "Simpler query language",
+        "3": "Scaling horizontally",
+        "4": "Increased network efficiency"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "10cbe877-3201-4a29-9eeb-6fe8ca6b261c",
+      "question": "Which of these is a common use case for the Factory Design Pattern?",
+      "options": {
+        "1": "Creating objects for which the type of object is determined at runtime",
+        "2": "Limiting the number of instances of an object",
+        "3": "Ensuring a single object is shared globally",
+        "4": "Managing object dependency chains"
+      },
+      "correct": "1"
+    },
+    {
+      "id": "032c61f6-8bb7-4d49-a1f7-49fc73281320",
+      "question": " What is the purpose of a Makefile?",
+      "options": {
+        "1": "Creating user interfaces for web applications",
+        "2": "Defining the build process for a software project",
+        "3": "Debugging software applications",
+        "4": "Describing the structure and content of a database"
+      },
+      "correct": "2"
+    },
+    {
+      "id": "b3896c8f-b0ce-47c1-9fee-df30706e0db7",
+      "question": "Which sorting algorithm has a worst-case time complexity of O(n^2)?",
+      "options": {
+        "1": "Quick sort",
+        "2": "Merge sort",
+        "3": "Bubble sort",
+        "4": "Heap sort"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "730bc903-3c84-4993-995a-1900dd8b67d0",
+      "question": "Which of the following commands starts an HTTP server using Python 3?",
+      "options": {
+        "1": "python -m SimpleHTTPServer 8080",
+        "2": "python3 -m http.server 8080",
+        "3": "python -m http.server 8080",
+        "4": "python3 -m SimpleHTTPServer 8080"
+      },
+      "correct": "2"
+    },
+    {
+      "id": "590c9450-8c53-420f-bd36-6c72ee7e0d3e",
+      "question": "What is the default port number for HTTPS connections?",
+      "options": {
+        "1": "80",
+        "2": "8080",
+        "3": "443",
+        "4": "21"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "6cfea028-e522-4867-aa73-c881af2a5f5b",
+      "question": "Which of these is a popular test framework for JavaScript?",
+      "options": {
+        "1": "PHPUnit",
+        "2": "Jest",
+        "3": "Nuxt.js",
+        "4": "Gulp"
+      },
+      "correct": "2"
+    },
+    {
+      "id": "12effc17-fa1a-41e2-84e3-500cfe3d232e",
+      "question": "Which of the following is NOT a valid HTTP status code?",
+      "options": {
+        "1": "200",
+        "2": "404",
+        "3": "503",
+        "4": "600"
+      },
+      "correct": "4"
+    },
+    {
+      "id": "5d5cd5c5-07e3-4767-8085-c0ef12328a83",
+      "question": "Which of these is a widely-used package manager for the Node.js ecosystem?",
+      "options": {
+        "1": "npm",
+        "2": "Gradle",
+        "3": "Maven",
+        "4": "Pip"
+      },
+      "correct": "1"
+    },
+    {
+      "id": "e1cbd978-cd30-465b-ad2f-ff7316b70759",
+      "question": "Which of the following is a Dependency Injection library for Java?",
+      "options": {
+        "1": "Spring",
+        "2": "Express",
+        "3": "Django",
+        "4": "Flask"
+      },
+      "correct": "1"
+    },
+    {
+      "id": "ff2e6a93-6dab-4b8c-857e-6a611e468173",
+      "question": "Which of these is a popular web framework for Ruby?",
+      "options": {
+        "1": "Ruby on Rails",
+        "2": "Django",
+        "3": "Laravel",
+        "4": "Express"
+      },
+      "correct": "1"
+    },
+    {
+      "id": "3f777a7a-97dd-41b7-9620-2e7b34d34083",
+      "question": "Which of these is NOT a characteristic of Agile methodologies?",
+      "options": {
+        "1": "Iterative development",
+        "2": "Frequent collaboration with clients",
+        "3": "Heavy documentation",
+        "4": "Adaptability to change"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "a2d1c6e8-6ed1-4d96-88bd-e1456db11dd6",
+      "question": "Which data structure uses the Last In First Out (LIFO) principle?",
+      "options": {
+        "1": "Queue",
+        "2": "Stack",
+        "3": "Linked List",
+        "4": "Array"
+      },
+      "correct": "2"
+    },
+    {
+      "id": "6db42360-1a08-4b17-845b-f636bfaf9111",
+      "question": "Which of these is an ORM library for Python?",
+      "options": {
+        "1": "ActiveRecord",
+        "2": "Eloquent",
+        "3": "Propel",
+        "4": "SQLAlchemy"
+      },
+      "correct": "4"
+    },
+    {
+      "id": "f7594970-ba9a-489b-aff2-2b184d42e968",
+      "question": "Which of these is a server-side rendering (SSR) framework for React applications?",
+      "options": {
+        "1": "Create React App",
+        "2": "Gatsby",
+        "3": "Next.js",
+        "4": "VuePress"
+      },
+      "correct": "3"
+    },
+    {
+      "id": "1aaaa867-fbc6-4f93-9834-dcbf56de4f94",
+      "question": "What is a major advantage of the Observer Design Pattern?",
+      "options": {
+        "1": "It reduces object creation costs",
+        "2": "It allows for flexible object composition",
+        "3": "It decouples event handling",
+        "4": "It improves memory management"
+      },
+      "correct": "3"
+    }
+  ]
+}
